@@ -66,5 +66,11 @@
     "i18next": "^26.4.2",
     "i18next-icu": "^2.4.4",
     "zod": "^4.6.5"
+  },
+  "allowScripts": {
+    "@sentry/cli@2.58.6": true,
+    "esbuild@0.28.1": true,
+    "workerd@1.20260815.1": true,
+    "workerd@1.20260911.1": true
   }
 }
